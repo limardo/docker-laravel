@@ -7,7 +7,7 @@ or
 ```
 laravel new app
 ```
-after copy `Dockerfile`, `docker-compose.yml` and `site.conf` in app folder.  
+after copy `Dockerfile` and `docker-compose.yml` in app folder.  
 Run command in app folder.
 ```
 docker-compose up
